@@ -1,0 +1,22 @@
+{
+  "name": "tea-manager",
+  "version": "1.0.0",
+  "description": "simple tea manager",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev":"nodemon index.js"
+  },
+  "keywords": [
+    "Express"
+  ],
+  "author": "Naina",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
